@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>HackSys Inc - A Vulnerability Research Company</title>
+        <link>https://hacksys.io/</link>
+        <description>A Vulnerability Research Company</description>
+        <lastBuildDate>Wed, 28 Dec 2022 06:47:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>HackSys Inc RSS Feed Geneartor</generator>
+        <image>
+            <title>HackSys Inc - A Vulnerability Research Company</title>
+            <url>https://hacksys.io/android-chrome-192x192.png</url>
+            <link>https://hacksys.io/</link>
+        </image>
+        <copyright>© HackSys Inc.</copyright>
+        <item>
+            <title><![CDATA[Foxit PDF Reader - Use after Free - Remote Code Execution Exploit]]></title>
+            <link>https://hacksys.io/blogs/foxit-reader-uaf-rce-jit-spraying-cve-2022-28672</link>
+            <guid>https://hacksys.io/blogs/foxit-reader-uaf-rce-jit-spraying-cve-2022-28672</guid>
+            <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Foxit PDF Reader is vulnerable to use after free vulnerability causing remote code execution]]></description>
+            <content:encoded><![CDATA[Foxit PDF Reader is vulnerable to use after free vulnerability causing remote code execution]]></content:encoded>
+            <author>info@hacksys.io (Krishnakant Patil)</author>
+            <author>info@hacksys.io (Ashfaq Ansari)</author>
+        </item>
+        <item>
+            <title><![CDATA[Adobe Reader - XFA - ANSI-Unicode Confusion Information Leak]]></title>
+            <link>https://hacksys.io/blogs/adobe-reader-xfa-ansi-unicode-confusion-information-leak</link>
+            <guid>https://hacksys.io/blogs/adobe-reader-xfa-ansi-unicode-confusion-information-leak</guid>
+            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Adobe Reader DC is vulnerable to Out of Bounds Read bug, caused by treating ANSI string as Unicode in XFA]]></description>
+            <content:encoded><![CDATA[Adobe Reader DC is vulnerable to Out of Bounds Read bug, caused by treating ANSI string as Unicode in XFA]]></content:encoded>
+            <author>info@hacksys.io (Ashfaq Ansari)</author>
+            <author>info@hacksys.io (Krishnakant Patil)</author>
+        </item>
+    </channel>
+</rss>

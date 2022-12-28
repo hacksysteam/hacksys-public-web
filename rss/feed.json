@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "HackSys Inc - A Vulnerability Research Company",
+    "home_page_url": "https://hacksys.io/",
+    "feed_url": "https://hacksys.io/rss/feed.json",
+    "description": "A Vulnerability Research Company",
+    "icon": "https://hacksys.io/android-chrome-192x192.png",
+    "author": {
+        "name": "Ashfaq Ansari",
+        "url": "https://twitter.com/HackSysTeam"
+    },
+    "items": [
+        {
+            "id": "https://hacksys.io/blogs/foxit-reader-uaf-rce-jit-spraying-cve-2022-28672",
+            "content_html": "Foxit PDF Reader is vulnerable to use after free vulnerability causing remote code execution",
+            "url": "https://hacksys.io/blogs/foxit-reader-uaf-rce-jit-spraying-cve-2022-28672",
+            "title": "Foxit PDF Reader - Use after Free - Remote Code Execution Exploit",
+            "summary": "Foxit PDF Reader is vulnerable to use after free vulnerability causing remote code execution",
+            "date_modified": "2022-12-16T00:00:00.000Z",
+            "author": {
+                "name": "Krishnakant Patil",
+                "url": "https://twitter.com/HackSysTeam"
+            }
+        },
+        {
+            "id": "https://hacksys.io/blogs/adobe-reader-xfa-ansi-unicode-confusion-information-leak",
+            "content_html": "Adobe Reader DC is vulnerable to Out of Bounds Read bug, caused by treating ANSI string as Unicode in XFA",
+            "url": "https://hacksys.io/blogs/adobe-reader-xfa-ansi-unicode-confusion-information-leak",
+            "title": "Adobe Reader - XFA - ANSI-Unicode Confusion Information Leak",
+            "summary": "Adobe Reader DC is vulnerable to Out of Bounds Read bug, caused by treating ANSI string as Unicode in XFA",
+            "date_modified": "2022-10-12T00:00:00.000Z",
+            "author": {
+                "name": "Ashfaq Ansari",
+                "url": "https://twitter.com/HackSysTeam"
+            }
+        }
+    ]
+}
