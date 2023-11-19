@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hacksys.io/</id>
+    <title>HackSys Inc - A Vulnerability Research Company</title>
+    <updated>2023-11-19T12:46:05.130Z</updated>
+    <generator>HackSys Inc RSS Feed Generator</generator>
+    <author>
+        <name>Ashfaq Ansari</name>
+        <email>info@hacksys.io</email>
+        <uri>https://twitter.com/HackSysTeam</uri>
+    </author>
+    <link rel="alternate" href="https://hacksys.io/"/>
+    <link rel="self" href="https://hacksys.io/rss/atom.xml"/>
+    <subtitle>A Vulnerability Research Company</subtitle>
+    <logo>https://hacksys.io/android-chrome-192x192.png</logo>
+    <icon>https://hacksys.io/favicon.ico</icon>
+    <rights>© HackSys Inc.</rights>
+    <entry>
+        <title type="html"><![CDATA[Activation Context Hell - DosDevices Remapping Attack under Impersonation]]></title>
+        <id>https://hacksys.io/blogs/activation-context-hell-dosdevices-remapping-attack-under-impersonation</id>
+        <link href="https://hacksys.io/blogs/activation-context-hell-dosdevices-remapping-attack-under-impersonation"/>
+        <updated>2023-09-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The article delves into the complexities of the DosDevices remapping attack when carried out under impersonation. It sheds light on the nuances of activation context and how it plays a pivotal role in the exploitation process. (CVE-2023-35359)]]></summary>
+        <content type="html"><![CDATA[The article delves into the complexities of the DosDevices remapping attack when carried out under impersonation. It sheds light on the nuances of activation context and how it plays a pivotal role in the exploitation process. (CVE-2023-35359)]]></content>
+        <author>
+            <name>Ashfaq Ansari</name>
+            <email>info@hacksys.io</email>
+            <uri>https://twitter.com/HackSysTeam</uri>
+        </author>
+        <author>
+            <name>Krishnakant Patil</name>
+            <email>info@hacksys.io</email>
+            <uri>https://twitter.com/HackSysTeam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe Acrobat Reader - resetForm - CAgg - Use after Free - Remote Code Execution (RCE) Exploit - CVE-2023-21608]]></title>
+        <id>https://hacksys.io/blogs/adobe-reader-resetform-cagg-rce-cve-2023-21608</id>
+        <link href="https://hacksys.io/blogs/adobe-reader-resetform-cagg-rce-cve-2023-21608"/>
+        <updated>2023-02-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post provides a thorough examination of a notable remote code execution vulnerability found in Adobe Reader. Specifically, the resetForm method is under scrutiny, revealing how its flawed implementation can be exploited by attackers. (CVE-2023-21608)]]></summary>
+        <content type="html"><![CDATA[This post provides a thorough examination of a notable remote code execution vulnerability found in Adobe Reader. Specifically, the resetForm method is under scrutiny, revealing how its flawed implementation can be exploited by attackers. (CVE-2023-21608)]]></content>
+        <author>
+            <name>Ashfaq Ansari</name>
+            <email>info@hacksys.io</email>
+            <uri>https://twitter.com/HackSysTeam</uri>
+        </author>
+        <author>
+            <name>Krishnakant Patil</name>
+            <email>info@hacksys.io</email>
+            <uri>https://twitter.com/HackSysTeam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foxit PDF Reader - Use after Free - Remote Code Execution (RCE) Exploit - CVE-2022-28672]]></title>
+        <id>https://hacksys.io/blogs/foxit-reader-uaf-rce-jit-spraying-cve-2022-28672</id>
+        <link href="https://hacksys.io/blogs/foxit-reader-uaf-rce-jit-spraying-cve-2022-28672"/>
+        <updated>2022-12-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The article presents an insightful analysis of a use-after-free vulnerability in Foxit Reader that can lead to remote code execution. The exploration further dives into JIT spraying techniques, showcasing how they can be employed to exploit this vulnerability. (CVE-2022-28672)]]></summary>
+        <content type="html"><![CDATA[The article presents an insightful analysis of a use-after-free vulnerability in Foxit Reader that can lead to remote code execution. The exploration further dives into JIT spraying techniques, showcasing how they can be employed to exploit this vulnerability. (CVE-2022-28672)]]></content>
+        <author>
+            <name>Ashfaq Ansari</name>
+            <email>info@hacksys.io</email>
+            <uri>https://twitter.com/HackSysTeam</uri>
+        </author>
+        <author>
+            <name>Krishnakant Patil</name>
+            <email>info@hacksys.io</email>
+            <uri>https://twitter.com/HackSysTeam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe Reader - XFA - ANSI-Unicode Confusion - Information Leak - CVE-2021-45067]]></title>
+        <id>https://hacksys.io/blogs/adobe-reader-xfa-ansi-unicode-confusion-information-leak</id>
+        <link href="https://hacksys.io/blogs/adobe-reader-xfa-ansi-unicode-confusion-information-leak"/>
+        <updated>2022-10-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This comprehensive study uncovers an information leak vulnerability in Adobe Reader. The core of the issue lies in the confusion between ANSI and Unicode representations within the XFA framework, leading to potential data disclosure risks. (CVE-2021-45067)]]></summary>
+        <content type="html"><![CDATA[This comprehensive study uncovers an information leak vulnerability in Adobe Reader. The core of the issue lies in the confusion between ANSI and Unicode representations within the XFA framework, leading to potential data disclosure risks. (CVE-2021-45067)]]></content>
+        <author>
+            <name>Ashfaq Ansari</name>
+            <email>info@hacksys.io</email>
+            <uri>https://twitter.com/HackSysTeam</uri>
+        </author>
+        <author>
+            <name>Krishnakant Patil</name>
+            <email>info@hacksys.io</email>
+            <uri>https://twitter.com/HackSysTeam</uri>
+        </author>
+    </entry>
+</feed>

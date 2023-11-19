@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://hacksys.io</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/advisories</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/blogs</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/contact</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/goodies</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/schedule</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/trainings</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/advisories/HI-2021-001</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/advisories/HI-2021-002</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/advisories/HI-2021-003</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/advisories/HI-2021-004</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/advisories/HI-2022-001</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/advisories/HI-2022-002</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/advisories/HI-2022-003</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/advisories/HI-2022-004</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/advisories/HI-2022-005</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/advisories/HI-2022-006</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/blogs/activation-context-hell-dosdevices-remapping-attack-under-impersonation</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/blogs/adobe-reader-resetform-cagg-rce-cve-2023-21608</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/blogs/adobe-reader-xfa-ansi-unicode-confusion-information-leak</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/blogs/foxit-reader-uaf-rce-jit-spraying-cve-2022-28672</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/trainings/windows-kernel-exploitation-advanced</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/trainings/windows-kernel-exploitation-foundation-advanced</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://hacksys.io/trainings/windows-kernel-exploitation-foundation</loc><lastmod>2023-11-19T12:46:07.506Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>
