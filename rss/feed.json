@@ -1,0 +1,228 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "HackSys Inc: Cybersecurity Vulnerability Research & Training",
+    "home_page_url": "https://hacksys.io",
+    "feed_url": "https://hacksys.iorss/feed.json",
+    "description": "Expert cybersecurity vulnerability research, Windows kernel exploitation insights, and professional security training from HackSys Inc. Discover cutting-edge security solutions.",
+    "icon": "https://hacksys.ioandroid-chrome-512x512.png",
+    "author": {
+        "name": "HackSys Inc",
+        "url": "https://twitter.com/HackSysTeam"
+    },
+    "items": [
+        {
+            "id": "https://hacksys.io/advisories/HI-2025-001",
+            "content_html": "Microsoft Windows contains a privilege escalation vulnerability in the dxgkrnl.sys driver due to improper user-supplied pointer validation. This vulnerability can be exploited by the attackers to obtain SYSTEM-level access and execute arbitrary code. (CVE-2025-29812)",
+            "url": "https://hacksys.io/advisories/HI-2025-001",
+            "title": "Microsoft Windows dxgkrnl Untrusted Pointer Dereference Local Privilege Escalation Vulnerability",
+            "summary": "Microsoft Windows contains a privilege escalation vulnerability in the dxgkrnl.sys driver due to improper user-supplied pointer validation. This vulnerability can be exploited by the attackers to obtain SYSTEM-level access and execute arbitrary code. (CVE-2025-29812)",
+            "date_modified": "2025-04-15T00:00:00.000Z",
+            "author": {
+                "name": [
+                    "Micky Thongam"
+                ],
+                "url": "https://twitter.com/HackSysTeam"
+            }
+        },
+        {
+            "id": "https://hacksys.io/blogs/activation-context-hell-dosdevices-remapping-attack-under-impersonation",
+            "content_html": "The article delves into the complexities of the DosDevices remapping attack when carried out under impersonation. It sheds light on the nuances of activation context and how it plays a pivotal role in the exploitation process. (CVE-2023-35359)",
+            "url": "https://hacksys.io/blogs/activation-context-hell-dosdevices-remapping-attack-under-impersonation",
+            "title": "Activation Context Hell - DosDevices Remapping Attack under Impersonation",
+            "summary": "The article delves into the complexities of the DosDevices remapping attack when carried out under impersonation. It sheds light on the nuances of activation context and how it plays a pivotal role in the exploitation process. (CVE-2023-35359)",
+            "date_modified": "2023-09-11T00:00:00.000Z",
+            "author": {
+                "name": "Ashfaq Ansari",
+                "url": "https://twitter.com/HackSysTeam"
+            }
+        },
+        {
+            "id": "https://hacksys.io/blogs/adobe-reader-resetform-cagg-rce-cve-2023-21608",
+            "content_html": "This post provides a thorough examination of a notable remote code execution vulnerability found in Adobe Reader. Specifically, the resetForm method is under scrutiny, revealing how its flawed implementation can be exploited by attackers. (CVE-2023-21608)",
+            "url": "https://hacksys.io/blogs/adobe-reader-resetform-cagg-rce-cve-2023-21608",
+            "title": "Adobe Acrobat Reader - resetForm - CAgg - Use after Free - Remote Code Execution (RCE) Exploit - CVE-2023-21608",
+            "summary": "This post provides a thorough examination of a notable remote code execution vulnerability found in Adobe Reader. Specifically, the resetForm method is under scrutiny, revealing how its flawed implementation can be exploited by attackers. (CVE-2023-21608)",
+            "date_modified": "2023-02-02T00:00:00.000Z",
+            "author": {
+                "name": "Ashfaq Ansari",
+                "url": "https://twitter.com/HackSysTeam"
+            }
+        },
+        {
+            "id": "https://hacksys.io/advisories/HI-2022-006",
+            "content_html": "Adobe Acrobat Reader DC has a use-after-free vulnerability in the resetForm method, enabling remote attackers to execute arbitrary code. User interaction, such as visiting a malicious page or opening a malicious file, is necessary for exploitation. (CVE-2023-21608)",
+            "url": "https://hacksys.io/advisories/HI-2022-006",
+            "title": "Adobe Acrobat Reader DC resetForm Use-After-Free Remote Code Execution Vulnerability",
+            "summary": "Adobe Acrobat Reader DC has a use-after-free vulnerability in the resetForm method, enabling remote attackers to execute arbitrary code. User interaction, such as visiting a malicious page or opening a malicious file, is necessary for exploitation. (CVE-2023-21608)",
+            "date_modified": "2023-01-10T00:00:00.000Z",
+            "author": {
+                "name": [
+                    "Ashfaq Ansari",
+                    "Krishnakant Patil"
+                ],
+                "url": "https://twitter.com/HackSysTeam"
+            }
+        },
+        {
+            "id": "https://hacksys.io/blogs/foxit-reader-uaf-rce-jit-spraying-cve-2022-28672",
+            "content_html": "The article presents an insightful analysis of a use-after-free vulnerability in Foxit Reader that can lead to remote code execution. The exploration further dives into JIT spraying techniques, showcasing how they can be employed to exploit this vulnerability. (CVE-2022-28672)",
+            "url": "https://hacksys.io/blogs/foxit-reader-uaf-rce-jit-spraying-cve-2022-28672",
+            "title": "Foxit PDF Reader - Use after Free - Remote Code Execution (RCE) Exploit - CVE-2022-28672",
+            "summary": "The article presents an insightful analysis of a use-after-free vulnerability in Foxit Reader that can lead to remote code execution. The exploration further dives into JIT spraying techniques, showcasing how they can be employed to exploit this vulnerability. (CVE-2022-28672)",
+            "date_modified": "2022-12-16T00:00:00.000Z",
+            "author": {
+                "name": "Ashfaq Ansari",
+                "url": "https://twitter.com/HackSysTeam"
+            }
+        },
+        {
+            "id": "https://hacksys.io/advisories/HI-2022-004",
+            "content_html": "Foxit PDF Reader has a use-after-free vulnerability in its handling of Choice field objects, enabling remote attackers to execute arbitrary code. User interaction, such as visiting a malicious page or opening a malicious file, is necessary for exploitation. Note: This was identified as a bug collision by ZDI at the vendor's end.",
+            "url": "https://hacksys.io/advisories/HI-2022-004",
+            "title": "Foxit PDF Reader Choice Field Use-After-Free Remote Code Execution Vulnerability",
+            "summary": "Foxit PDF Reader has a use-after-free vulnerability in its handling of Choice field objects, enabling remote attackers to execute arbitrary code. User interaction, such as visiting a malicious page or opening a malicious file, is necessary for exploitation. Note: This was identified as a bug collision by ZDI at the vendor's end.",
+            "date_modified": "2022-11-06T00:00:00.000Z",
+            "author": {
+                "name": [
+                    "Anonymous",
+                    "Krishnakant Patil",
+                    "Ashfaq Ansari"
+                ],
+                "url": "https://twitter.com/HackSysTeam"
+            }
+        },
+        {
+            "id": "https://hacksys.io/blogs/adobe-reader-xfa-ansi-unicode-confusion-information-leak",
+            "content_html": "This comprehensive study uncovers an information leak vulnerability in Adobe Reader. The core of the issue lies in the confusion between ANSI and Unicode representations within the XFA framework, leading to potential data disclosure risks. (CVE-2021-45067)",
+            "url": "https://hacksys.io/blogs/adobe-reader-xfa-ansi-unicode-confusion-information-leak",
+            "title": "Adobe Reader - XFA - ANSI-Unicode Confusion - Information Leak - CVE-2021-45067",
+            "summary": "This comprehensive study uncovers an information leak vulnerability in Adobe Reader. The core of the issue lies in the confusion between ANSI and Unicode representations within the XFA framework, leading to potential data disclosure risks. (CVE-2021-45067)",
+            "date_modified": "2022-10-12T00:00:00.000Z",
+            "author": {
+                "name": "Ashfaq Ansari",
+                "url": "https://twitter.com/HackSysTeam"
+            }
+        },
+        {
+            "id": "https://hacksys.io/advisories/HI-2022-003",
+            "content_html": "Foxit PDF Reader is susceptible to a use-after-free flaw in the handling of Doc objects, allowing remote attackers to execute arbitrary code. For exploitation, user interaction is needed, such as visiting a malicious page or opening a malicious file. (CVE-2022-37385)",
+            "url": "https://hacksys.io/advisories/HI-2022-003",
+            "title": "Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability",
+            "summary": "Foxit PDF Reader is susceptible to a use-after-free flaw in the handling of Doc objects, allowing remote attackers to execute arbitrary code. For exploitation, user interaction is needed, such as visiting a malicious page or opening a malicious file. (CVE-2022-37385)",
+            "date_modified": "2022-07-29T00:00:00.000Z",
+            "author": {
+                "name": [
+                    "Krishnakant Patil",
+                    "Ashfaq Ansari"
+                ],
+                "url": "https://twitter.com/HackSysTeam"
+            }
+        },
+        {
+            "id": "https://hacksys.io/advisories/HI-2022-005",
+            "content_html": "Foxit PDF Reader is vulnerable to an out-of-bound read flaw, allowing remote attackers to disclose sensitive information. User interaction, like visiting a malicious page or opening a malicious file, is needed for exploitation. This flaw, when combined with other vulnerabilities, can lead to arbitrary code execution. CVE ID is currently awaiting.",
+            "url": "https://hacksys.io/advisories/HI-2022-005",
+            "title": "Foxit PDF Reader Out-of-Bound Read Information Disclosure Vulnerability",
+            "summary": "Foxit PDF Reader is vulnerable to an out-of-bound read flaw, allowing remote attackers to disclose sensitive information. User interaction, like visiting a malicious page or opening a malicious file, is needed for exploitation. This flaw, when combined with other vulnerabilities, can lead to arbitrary code execution. CVE ID is currently awaiting.",
+            "date_modified": "2022-07-29T00:00:00.000Z",
+            "author": {
+                "name": [
+                    "Krishnakant Patil",
+                    "Ashfaq Ansari"
+                ],
+                "url": "https://twitter.com/HackSysTeam"
+            }
+        },
+        {
+            "id": "https://hacksys.io/advisories/HI-2022-002",
+            "content_html": "Foxit PDF Reader has a use-after-free vulnerability in its handling of Doc objects, enabling remote attackers to execute arbitrary code. User interaction, by visiting a malicious page or opening a malicious file, is necessary for exploitation. (CVE-2022-28672)",
+            "url": "https://hacksys.io/advisories/HI-2022-002",
+            "title": "Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability",
+            "summary": "Foxit PDF Reader has a use-after-free vulnerability in its handling of Doc objects, enabling remote attackers to execute arbitrary code. User interaction, by visiting a malicious page or opening a malicious file, is necessary for exploitation. (CVE-2022-28672)",
+            "date_modified": "2022-06-21T00:00:00.000Z",
+            "author": {
+                "name": [
+                    "Anonymous",
+                    "Ashfaq Ansari",
+                    "Krishnakant Patil"
+                ],
+                "url": "https://twitter.com/HackSysTeam"
+            }
+        },
+        {
+            "id": "https://hacksys.io/advisories/HI-2021-004",
+            "content_html": "Adobe Acrobat Reader DC is vulnerable to a use-after-free flaw in AcroForms, enabling remote attackers to execute arbitrary code. User interaction, such as visiting a malicious page or opening a malicious file, is necessary for exploitation. (CVE-2022-27789)",
+            "url": "https://hacksys.io/advisories/HI-2021-004",
+            "title": "Adobe Acrobat Reader DC AcroForm Use-After-Free Remote Code Execution Vulnerability",
+            "summary": "Adobe Acrobat Reader DC is vulnerable to a use-after-free flaw in AcroForms, enabling remote attackers to execute arbitrary code. User interaction, such as visiting a malicious page or opening a malicious file, is necessary for exploitation. (CVE-2022-27789)",
+            "date_modified": "2022-04-12T00:00:00.000Z",
+            "author": {
+                "name": [
+                    "Krishnakant Patil",
+                    "Ashfaq Ansari"
+                ],
+                "url": "https://twitter.com/HackSysTeam"
+            }
+        },
+        {
+            "id": "https://hacksys.io/advisories/HI-2022-001",
+            "content_html": "Adobe Acrobat Reader DC has an out-of-bounds read vulnerability in the handling of Annotation objects, allowing remote attackers to disclose sensitive information. User interaction, like visiting a malicious page or opening a malicious file, is needed for exploitation. This flaw can be combined with other vulnerabilities for arbitrary code execution. (CVE-2022-28249)",
+            "url": "https://hacksys.io/advisories/HI-2022-001",
+            "title": "Adobe Acrobat Reader DC Annotation Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "summary": "Adobe Acrobat Reader DC has an out-of-bounds read vulnerability in the handling of Annotation objects, allowing remote attackers to disclose sensitive information. User interaction, like visiting a malicious page or opening a malicious file, is needed for exploitation. This flaw can be combined with other vulnerabilities for arbitrary code execution. (CVE-2022-28249)",
+            "date_modified": "2022-04-12T00:00:00.000Z",
+            "author": {
+                "name": [
+                    "Krishnakant Patil",
+                    "Ashfaq Ansari"
+                ],
+                "url": "https://twitter.com/HackSysTeam"
+            }
+        },
+        {
+            "id": "https://hacksys.io/advisories/HI-2021-003",
+            "content_html": "Foxit PDF Reader is vulnerable to a use-after-free flaw in the handling of Doc objects, allowing remote attackers to disclose sensitive information. User interaction, such as visiting a malicious page or opening a malicious file, is required for exploitation. This vulnerability can be combined with other flaws to achieve arbitrary code execution. (CVE-2022-24368)",
+            "url": "https://hacksys.io/advisories/HI-2021-003",
+            "title": "Foxit PDF Reader Doc Use-After-Free Information Disclosure Vulnerability",
+            "summary": "Foxit PDF Reader is vulnerable to a use-after-free flaw in the handling of Doc objects, allowing remote attackers to disclose sensitive information. User interaction, such as visiting a malicious page or opening a malicious file, is required for exploitation. This vulnerability can be combined with other flaws to achieve arbitrary code execution. (CVE-2022-24368)",
+            "date_modified": "2022-01-28T00:00:00.000Z",
+            "author": {
+                "name": [
+                    "Ashfaq Ansari",
+                    "Krishnakant Patil"
+                ],
+                "url": "https://twitter.com/HackSysTeam"
+            }
+        },
+        {
+            "id": "https://hacksys.io/advisories/HI-2021-001",
+            "content_html": "Adobe Acrobat Reader DC has a use-after-free vulnerability in AcroForm fields, allowing remote code execution with user interaction, such as visiting a malicious page or opening a malicious file. (CVE-2021-44701)",
+            "url": "https://hacksys.io/advisories/HI-2021-001",
+            "title": "Adobe Acrobat Reader DC AcroForm Use-After-Free Remote Code Execution Vulnerability",
+            "summary": "Adobe Acrobat Reader DC has a use-after-free vulnerability in AcroForm fields, allowing remote code execution with user interaction, such as visiting a malicious page or opening a malicious file. (CVE-2021-44701)",
+            "date_modified": "2022-01-11T00:00:00.000Z",
+            "author": {
+                "name": [
+                    "Ashfaq Ansari",
+                    "Krishnakant Patil"
+                ],
+                "url": "https://twitter.com/HackSysTeam"
+            }
+        },
+        {
+            "id": "https://hacksys.io/advisories/HI-2021-002",
+            "content_html": "Adobe Acrobat Reader DC has an information leak vulnerability in the AcroForm module due to ANSI-Unicode confusion, allowing remote attackers to disclose sensitive data. User interaction, like visiting a malicious page or opening a malicious file, is needed for exploitation. This flaw can be combined with other vulnerabilities for arbitrary code execution. (CVE-2021-45067)",
+            "url": "https://hacksys.io/advisories/HI-2021-002",
+            "title": "Adobe Acrobat Reader DC AcroForm XFA ANSI-Unicode Confusion Information Leak Vulnerability",
+            "summary": "Adobe Acrobat Reader DC has an information leak vulnerability in the AcroForm module due to ANSI-Unicode confusion, allowing remote attackers to disclose sensitive data. User interaction, like visiting a malicious page or opening a malicious file, is needed for exploitation. This flaw can be combined with other vulnerabilities for arbitrary code execution. (CVE-2021-45067)",
+            "date_modified": "2022-01-11T00:00:00.000Z",
+            "author": {
+                "name": [
+                    "Ashfaq Ansari",
+                    "Krishnakant Patil"
+                ],
+                "url": "https://twitter.com/HackSysTeam"
+            }
+        }
+    ]
+}

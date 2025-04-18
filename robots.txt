@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://hacksys.io
+Sitemap: https://hacksys.io/sitemap.xml
